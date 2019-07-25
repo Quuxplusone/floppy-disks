@@ -1,0 +1,3 @@
+BOUNCER.COM had an "Input/output error"
+Everything else should be good.
+After retrieving these files, the disk stopped reading at all. :(

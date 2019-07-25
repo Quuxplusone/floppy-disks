@@ -1,0 +1,22 @@
+
+     #E_
+    (_)  #F=  lose 1 health point
+               if flown into                  #Ci
+                                           #2^~"#C[#2^   #F=  lose 1 health point
+        #B_                                              #F   if run over
+       #B<+>  #F=  gain 5 health points
+                  if flown into
+
+                                       
+        A            D               W            X
+                                    #A,_       #F       
+                #A    ,_              \|(./o__
+      /\_./o__      \|(./o__     _.-(\`(/^^'     -.,,-./o__
+     (/^/(_^^'   -..(\`(/^^'       -~' '         _./|<(_^^'
+   ._.(_.)_         ~-"(_       #C   i   i #A           ```
+#2  ~^`"`^~"^~^"`^`~"`^~"`"~^`"`^`~``#C[#2^`"#C[#2^`^^""`^`~"`^~"`"~^`"`^`~
+
+
+#9                  Press any key to continue...
+#0
+

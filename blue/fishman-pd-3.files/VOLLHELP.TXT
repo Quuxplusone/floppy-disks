@@ -1,0 +1,22 @@
+
+#2     Welcome to #1Master Volleyball
+#2         by Chaos Productions
+#3
+ This game will test your reflexes to
+ the utmost with superfast action and
+ awesome graphics (yeah, right).  The
+ idea of the game is basically to hit
+ the little red ball from one side of
+ the net to the other.  Keep doing it
+ until you drop the ball.
+
+   The control keystrokes are:
+
+#1 Left arrow  / A / Z / 4 #3: Move left
+#1 Right arrow / D / X / 6 #3: Move right
+#1       F1 / H / ? #3: This screen
+#1        Escape / Q #3: Quit game
+
+
+#2        Now, back to the game...
+
